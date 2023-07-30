@@ -1,4 +1,5 @@
-const apiKey = 'enter yout api key';
+//const apiKey = 'enter yout api key';
+const apiKey = '<MY API KEY>&units=imperial';
 const baseURL = 'https://api.openweathermap.org/data/2.5/weather';
 
 // Function to fetch weather data from the API
